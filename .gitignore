@@ -1,0 +1,21 @@
+# Dependency directories
+node_modules/
+
+# Cache directories
+.npm
+.cache
+.pnp
+.pnp.js
+
+# Pack files
+*.pack
+
+# Build directories
+build/
+dist/
+
+# Environment files
+.env
+
+# System files
+.DS_Store

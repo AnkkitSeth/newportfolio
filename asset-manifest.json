@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7c0b41a.css",
+    "main.js": "/static/js/main.9d346b2d.js",
+    "static/media/profilepic.jpg": "/static/media/profilepic.126706b73117a1f757d5.jpg",
+    "static/media/handshake.png": "/static/media/handshake.16928ad1195176ef36fa.png",
+    "static/media/codeacedemy.svg": "/static/media/codeacedemy.ccec6badeab4f69c1c686c45925f0061.svg",
+    "static/media/cocacola.svg": "/static/media/cocacola.591ad30f981e68a35944375eb13d1537.svg",
+    "static/media/mattered.svg": "/static/media/mattered.78797bb56100378631327e2ca794b274.svg",
+    "static/media/adobe.svg": "/static/media/adobe.7b9adcb23cd469f7d5e554867273dc5f.svg",
+    "static/media/nationalbank.svg": "/static/media/nationalbank.7e2f43cf14448e9495f97aeccf5d4cdd.svg",
+    "static/media/subway.svg": "/static/media/subway.4ebcc0e01b1384f749187726a96776a7.svg",
+    "index.html": "/index.html",
+    "main.e7c0b41a.css.map": "/static/css/main.e7c0b41a.css.map",
+    "main.9d346b2d.js.map": "/static/js/main.9d346b2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7c0b41a.css",
+    "static/js/main.9d346b2d.js"
+  ]
+}
